@@ -18,14 +18,18 @@ This project was created for 41026 Advance to Software Development course at UTS
 - MongoDB
 - RESTful web services
 - Heroku and Codeship for CI/CD
-- Selenium and Junit
+- Selenium, cucumber and Junit
+
+## Contribution
+
+- Developed top-up and top-up history feature
+- Implemented Unit and UI Testing
+- Developed app by following Scrum methodology within group project
 
 ## Features
 
-- Register and login to buy movies
+- Register and login to order and top-up Opal card
 - Update account details
-- view purchase, login and logout history
-- Add, edit and delete movies
-- Search feature
-- User and customer management
+- view top-up history
+- Opal Customer Care
 
