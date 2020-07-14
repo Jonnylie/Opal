@@ -18,6 +18,7 @@ This project was created for 41026 Advance to Software Development course at UTS
 - MongoDB
 - RESTful web services
 - Heroku and Codeship for CI/CD
+- Selenium and Junit
 
 ## Features
 
