@@ -1,4 +1,4 @@
-# Opal
+# Opal Clone
 
 A web application for users to order and top-up Opal card
 
